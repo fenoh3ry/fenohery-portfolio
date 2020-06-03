@@ -6,9 +6,9 @@ class Assets{
   static const instagram = 'assets/instagram.png';
   static const linkedin = 'assets/linkedin.png';
   static const twitter= 'assets/twitter.png';
-  static const cocoapay = 'assets/works/cocoapay.png';
-  static const facelyt = 'assets/works/facelyt.png';
-  static const kharedi_now = 'assets/works/kharedi_now.png';
+  static const help = 'assets/works/help.jpg';
+  static const covidapp = 'assets/works/covidapp.PNG';
+  static const forest = 'assets/works/forest.png';
   static const messio = 'assets/works/messio.png';
   static const mydealer = 'assets/works/mydealer.png';
   static const mynewcar = 'assets/works/mynewcar.png';
